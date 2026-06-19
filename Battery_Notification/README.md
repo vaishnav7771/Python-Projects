@@ -21,4 +21,5 @@ And a few other python package that you need to install are as:
     python battery.py
 
 ## Authon Name:
-Bharat Gupta
+Vaishnav Kurade
+
